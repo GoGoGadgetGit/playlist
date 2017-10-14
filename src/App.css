@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.star {
+  color: blue;
+}
+
+
+.App-intro {
+  font-size: large;
+}
+
+.navBar{
+  background-color:  lightgrey;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  padding: 1px;
+}
+
+.navLinks{
+  font-family: "Times New Roman", Georgia, Serif;
+  text-decoration: underline;
+  text-decoration-color:  rgb(76, 218, 159);
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.navLink{
+  margin: 10px;
+}
+
+.main {
+  display: flex;
+  margin-left: 10%;
+}
+
+
+th{
+   font-family: "Times New Roman", Georgia, Serif;
+   text-decoration: underline;
+   text-decoration-color: rgb(76, 218, 159);
+}
+
+
+.formTitle{
+   font-family: "Times New Roman", Georgia, Serif;
+   text-decoration: underline;
+   text-decoration-color:  rgb(76, 218, 159);
+}
+
+.formButton{
+  margin-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: "Times New Roman", Georgia, Serif;
+  background-color:  rgb(76, 218, 159);
+  color: white;
+  border-color: black;
+  border-radius: 3px;
+  border-width:thin;
+}
